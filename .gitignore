@@ -1,5 +1,5 @@
 loterias/dados.json
 .env
-.node_modules/
+node_modules/
 /auth_info/*
 /loterias/dados.json
